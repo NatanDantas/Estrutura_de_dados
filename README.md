@@ -1,3 +1,6 @@
 # Estrutura De Dados
+### Conteúdo das aulas de Estrutura de dados
+#### TADS - 3° Semestre
 
-Conteúdo da aulda do dia 25 de agosto de 2022
+
+
