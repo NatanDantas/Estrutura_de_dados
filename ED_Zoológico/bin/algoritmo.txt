@@ -1,0 +1,25 @@
+1- ) Dado o TAD - Animal e Zoologico, discutidos em classe. Vocês devem:
+
+Feito - a-) Implementar o método calcularTotalKilo - que é a somatória do atributo massa. Esta operação deve ser codificada no TAD Zoológico;
+b-) Implementar o método contarTipo (int tipo) - que deve contar a quantidade de animais de um determinado tipo. Esta operação deve ser codificada no TAD Zoológico;
+c-) Implementar o método maiorMassa no qual deve indicar o nome do animal com a maior massa. Esta operação deve ser codificada no TAD Zoológico;
+
+Os tipos são: 1 - mamífero, 2- ave, 3 - reptil e 4 - outros. Esta operação deve ser codificada no TAD Zoológico;
+
+2-) Dado um TAD que represente um país. Um país é representado através dos atributos: código ISO 3166-1 (ex.: BRA), nome (ex.: Brasil), população (ex.: 193.946.886) e a sua dimensão em Km2 (ex.: 8.515.767,049). Além disso, cada país mantém uma lista de outros países com os quais ele faz fronteira. Escreva este TAD em Java e forneça os seus membros a seguir:
+a) Construtor que inicialize o código ISO, o nome e a dimensão do país;
+b) Métodos de acesso (getter/setter) para as propriedades código ISSO, nome, população e dimensão do país;
+c) Um método que retorne a densidade populacional do país;
+
+3 -) Dado um TAD denominado Continente. Um continente possui um nome e é composto por um conjunto de países.
+Forneça os membros de classe a seguir:
+a) Construtor que inicialize o nome do continente;
+b) Um método que permita adicionar países aos continentes;
+c) Um método que retorne a dimensão total do continente;
+d) Um método que retorne a população total do continente;
+e) Um método que retorne a densidade populacional do continente;
+f) Um método que retorne o país com maior população no continente;
+g) Um método que retorne o país com menor população no continente;
+h) Um método que retorne o país de maior dimensão territorial no continente;
+i) Um método que retorne o país de menor dimensão territorial no continente;
+j) Um método que retorne a razão territorial do maior pais em relação ao menor país.
